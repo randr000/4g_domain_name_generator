@@ -1,6 +1,6 @@
 # Live website can be found at
 
-## https://randr000.github.io/4g_domain_name_generator/
+## https://randr000.github.io/4g_random_card_generator/
 
 # Hello World with Vanilla JS
 
